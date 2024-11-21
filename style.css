@@ -1043,7 +1043,7 @@ cursor:pointer;
      }
      .para{
           font-size: 14px;
-          line-height: 25px;
+          line-height: 27px;
           text-align: center;
           width: 85%;
           margin:1rem auto;
@@ -1136,8 +1136,8 @@ cursor:pointer;
      }
 
      .btn{
-          font-size: 10px;
-          padding: 10px 15px;
+          font-size: 12px;
+          padding: 12px 17px;
      }
 
      .features-section{
