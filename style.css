@@ -15,7 +15,7 @@ html,
 body{
      width:100%;
      height:100%;
-     overflow-x: hidden;
+     
 }
 
 body{
@@ -700,7 +700,7 @@ cursor:pointer;
 
 /* ----------------------MEDIA QUERIES---------------------- */
 @media (max-width:1250px){
-     html,
+     
      body{
      width:100%;
      overflow-x: hidden;
@@ -726,7 +726,7 @@ cursor:pointer;
     
 }
 @media (max-width:1200px){
-     html,
+     
 body{
      width:100%;
      
@@ -740,7 +740,7 @@ body{
      }
 }
 @media (max-width:1100px){
-     html,
+
 body{
      width:100%;
      
@@ -751,7 +751,7 @@ body{
      }
 }
 @media (max-width:1000px){
-     html,
+     
 body{
      width:100%;
      
@@ -841,7 +841,7 @@ body{
      }
 }
 @media (max-width:950px){
-     html,
+     
 body{
      width:100%;
      
@@ -866,7 +866,7 @@ body{
 
 /* HAMBURGER-MENU SHOULD BE ACTIVATED HERE */
 @media (max-width:750px){
-     html,
+     
 body{
      width:100%;
      
@@ -911,7 +911,7 @@ body{
      
 }
 @media (max-width: 650px){
-     html,
+     
 body{
      width:100%;
      
@@ -969,7 +969,7 @@ body{
      }
 }
 @media (max-width:550px){
-     html,
+     
 body{
      width:100%;
      
@@ -1039,7 +1039,7 @@ body{
      
 }
 @media(max-width: 500px){
-     html,
+     
 body{
      width:100%;
      
@@ -1073,7 +1073,7 @@ body{
 
 }
 @media(max-width:480px){
-     html,
+     
 body{
      width:100%;
      
@@ -1096,7 +1096,7 @@ body{
      
 }
 @media(max-width:450px){
-     html,
+     
 body{
      width:100%;
      
@@ -1182,7 +1182,7 @@ body{
      }
 }
 @media(max-width:400px){
-     html,
+     
 body{
      width:100%;
      
@@ -1250,7 +1250,7 @@ body{
           }
 }
 @media(max-width:380px){
-     html,
+    
 body{
      width:100%;
      
