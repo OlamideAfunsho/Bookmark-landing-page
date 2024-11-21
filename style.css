@@ -296,7 +296,7 @@ h1{
 
 .bg{
      background-color: var(--Soft-Blue);
-     width:80%;
+     max-width:80%;
      height:350px;
      border-bottom-left-radius: 200px;
      position:absolute;
@@ -787,7 +787,7 @@ cursor:pointer;
           
      } */
      .bg{
-          width:90%;
+          max-width:90%;
           right:-22%;
      }
 
@@ -951,7 +951,7 @@ cursor:pointer;
 
      .bg{
           height:60%;
-          width: 70%;
+          max-width: 70%;
           border-bottom-left-radius: 45%;
           right:-10%;
           bottom:10%
@@ -1011,7 +1011,7 @@ cursor:pointer;
      }
      .bg{
           height:50%;
-          width: 70%;
+          max-width: 70%;
           border-bottom-left-radius: 45%;
           right:-10%;
           bottom:20%
@@ -1126,7 +1126,7 @@ cursor:pointer;
 
       .bg{
           height:40%;
-          width: 75%;
+          max-width: 75%;
           border-bottom-left-radius: 40%;
           right:-11%;
           bottom:35%;
