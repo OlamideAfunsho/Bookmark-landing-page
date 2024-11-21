@@ -15,11 +15,12 @@ html,
 body{
      width:100%;
      height:100%;
+     overflow-x: hidden;
 }
 
 body{
      font-family: 'Quicksand';
-     overflow-x: hidden;
+     
      
 }
 
@@ -296,7 +297,7 @@ h1{
 
 .bg{
      background-color: var(--Soft-Blue);
-     max-width:80%;
+     width:80%;
      height:350px;
      border-bottom-left-radius: 200px;
      position:absolute;
@@ -699,6 +700,12 @@ cursor:pointer;
 
 /* ----------------------MEDIA QUERIES---------------------- */
 @media (max-width:1250px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      .main-container{
           width:100%;
           padding-left: 3rem;
@@ -720,6 +727,12 @@ cursor:pointer;
     
 }
 @media (max-width:1200px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      .con-1{
           padding-top: 3rem;
      }
@@ -728,11 +741,23 @@ cursor:pointer;
      }
 }
 @media (max-width:1100px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      .extension-container{
           width:90%;
      }
 }
 @media (max-width:1000px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
 
      .header{
           font-size: 2.2rem;
@@ -787,7 +812,7 @@ cursor:pointer;
           
      } */
      .bg{
-          max-width:90%;
+          width:90%;
           right:-22%;
      }
 
@@ -817,6 +842,12 @@ cursor:pointer;
      }
 }
 @media (max-width:950px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
     .extension-container{
      flex-direction: column;
      width:100%;
@@ -836,6 +867,12 @@ cursor:pointer;
 
 /* HAMBURGER-MENU SHOULD BE ACTIVATED HERE */
 @media (max-width:750px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      .nav{
           display:none;
      }
@@ -875,6 +912,12 @@ cursor:pointer;
      
 }
 @media (max-width: 650px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
     .para{
      width:80%;
     }
@@ -927,6 +970,12 @@ cursor:pointer;
      }
 }
 @media (max-width:550px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      .header{
           font-size: 2rem;
 
@@ -951,7 +1000,7 @@ cursor:pointer;
 
      .bg{
           height:60%;
-          max-width: 70%;
+          width: 70%;
           border-bottom-left-radius: 45%;
           right:-10%;
           bottom:10%
@@ -991,6 +1040,12 @@ cursor:pointer;
      
 }
 @media(max-width: 500px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
   
      .para{
           font-size: 14px;
@@ -1011,7 +1066,7 @@ cursor:pointer;
      }
      .bg{
           height:50%;
-          max-width: 70%;
+          width: 70%;
           border-bottom-left-radius: 45%;
           right:-10%;
           bottom:20%
@@ -1019,6 +1074,12 @@ cursor:pointer;
 
 }
 @media(max-width:480px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
        
     .features-nav li a{
      width:90%; 
@@ -1036,6 +1097,12 @@ cursor:pointer;
      
 }
 @media(max-width:450px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      .header{
           font-size: 1.5rem;
           text-wrap: wrap;
@@ -1116,6 +1183,12 @@ cursor:pointer;
      }
 }
 @media(max-width:400px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      #close-icon{
           margin-left: auto;
           cursor:pointer;
@@ -1126,7 +1199,7 @@ cursor:pointer;
 
       .bg{
           height:40%;
-          max-width: 75%;
+          width: 75%;
           border-bottom-left-radius: 40%;
           right:-11%;
           bottom:35%;
@@ -1178,6 +1251,12 @@ cursor:pointer;
           }
 }
 @media(max-width:380px){
+     html,
+body{
+     width:100%;
+     height:100%;
+     overflow-x: hidden;
+}
      .header{
           font-size: 1.5rem;
           text-wrap: wrap;
