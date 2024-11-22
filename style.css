@@ -301,7 +301,7 @@ h1{
      height:350px;
      border-bottom-left-radius: 200px;
      position:absolute;
-     bottom:20%;
+     bottom:10%;
      right:-12%;
      z-index:1;
      
@@ -712,7 +712,7 @@ cursor:pointer;
           
      }
      .bg{
-          bottom:20%;
+          bottom:30%;
      }
 
      .fcon-2{
