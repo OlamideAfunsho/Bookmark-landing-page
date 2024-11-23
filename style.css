@@ -139,12 +139,12 @@ body{
 
 .drop-bar li {
      list-style: none;
-     padding: 15px 80px;
+     padding: 15px 90px;
      border-bottom: 1px solid var(--Grayish-Blue);
 }
 
 .drop-bar li:nth-child(3) {
-     padding: 15px 85px;
+     padding: 15px 95px;
 }
 
 .drop-bar li:last-child {
@@ -159,7 +159,7 @@ body{
 }
 
 .drop-bar-btn {
-     padding: 12px 75px;
+     padding: 12px 95px;
      border: 2px solid var(--White);
      border-radius: 5px;
 }
@@ -1244,7 +1244,7 @@ body{
                font-weight:400;
                letter-spacing: 1px;
                margin-left: 0;
-               margin-top: 1rem;
+               margin-top: 2rem;
           }
      
           .logo-icon{
